@@ -1,4 +1,4 @@
-### Olá eu sou o <a href="https://www.linkedin.com/in/matheus-viana-3149a81b0/"> Matheus Viana</a>✌️, estou estudando programação.
+### Olá eu sou o <a href="https://www.linkedin.com/in/matheus-viana-3149a81b0/"> Matheus Viana</a>✌️, estou entrando no mundo da programação, tenho como objetivo ingressar na área de desenvolvimento para aprimorar minhas habilidades e conhecimentos.
 
 ##
 

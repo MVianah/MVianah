@@ -3,8 +3,8 @@
 ##
 
 <div style="display: inline_block"><br>
-<img height="160em" align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Vianahdev&show_icons=true&theme=react" />
-<img height="160em" align="center" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vianahdev&layout=compact&theme=react" />
+<img height="160em" align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Vianahdev&show_icons=true&theme=omni" />
+<img height="160em" align="center" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vianahdev&layout=compact&theme=omni" />
 </div><br>
 
 ### Tecnologias que estou aprendendo 📝.

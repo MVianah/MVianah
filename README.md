@@ -1,4 +1,4 @@
-### Olá eu sou o <a href="https://www.linkedin.com/in/matheus-viana-3149a81b0/"> Matheus Viana</a>✌️, estou entrando no mundo da programação, tenho como objetivo ingressar na área de desenvolvimento para aprimorar minhas habilidades e conhecimentos.
+### Hello, I'm <a href="https://www.linkedin.com/in/matheus-viana-3149a81b0/"> Matheus Viana</a>✌️, I'm entering the world of programming, my goal is to enter the development area to improve my skills and knowledge.
 
 ##
 
@@ -7,7 +7,7 @@
 <img height="180em" align="center" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vianahdev&layout=compact&theme=dracula&count_private=false" />
 </div><br>
 
-### Tecnologias que estou aprendendo 📝.
+### Technologies I'm learning 📝.
 
 <div style="display: inline_block">
   <img align="center" alt="Vianah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

@@ -3,8 +3,8 @@
 ##
 
 <div style="display: inline_block"><br>
-<img height="180em" align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api/?username=Vianahdev&show_icons=true&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" />
-<img height="180em" align="center" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vianahdev&layout=compact&theme=dracula&count_private=true" />
+<img height="180em" align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api/?username=Vianahdev&show_icons=true&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" />
+<img height="180em" align="center" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vianahdev&layout=compact&theme=dracula&count_private=false" />
 </div><br>
 
 ### Technologies I'm learning 📝.

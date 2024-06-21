@@ -1,4 +1,10 @@
-### Hello, I'm <a href="https://www.linkedin.com/in/matheus-viana-3149a81b0/"> Matheus Viana</a>✌️, I'm entering the world of programming, my goal is to enter the development area to improve my skills and knowledge.
+# Hello, I'm <a href="https://www.linkedin.com/in/matheus-viana-3149a81b0/"> Matheus Viana</a>✌️.
+
+
+* *A programming enthusiast, my goal is to enter the data field to improve my skills and knowledge.*
+
+* *I am currently studying Python, Power BI and SQL, for Data Science and Data Analysis.*
+
 
 ##
 
@@ -7,16 +13,21 @@
 <img height="180em" align="center" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vianahdev&layout=compact&theme=dracula&count_private=false" />
 </div><br>
 
-### Technologies I'm learning 📝.
-
+### 🛠️ Skills.
 <div style="display: inline_block">
   <img align="center" alt="Vianah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vianah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vianah-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vianah-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vianah-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Vianah-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  
+  <img align="center" alt="Vianah-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Vianah-PowerBI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+</div>  
+
+### 📝 Technologies I'm learning.
+
+<div style="display: inline_block">
+  <img align="center" alt="Vianah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vianah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Vianah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
 </div>
 
 ##

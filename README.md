@@ -13,7 +13,7 @@
 <img height="180em" align="center" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vianahdev&layout=compact&theme=dracula&count_private=false" />
 </div><br>
 
-### Skills 🛠️.
+### Soft Skills 🛠️.
 <div style="display: inline_block">
   <img align="center" alt="Vianah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vianah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

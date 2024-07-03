@@ -9,16 +9,16 @@
 ##
 
 <div style="display: inline_block"><br>
-<img height="180em" align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api/?username=Vianahdev&show_icons=true&theme=holi&hide_border=false&include_all_commits=false&count_private=true" />
-<img height="180em" align="center" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vianahdev&layout=compact&theme=holi&count_private=false" />
+<img height="180em" align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api/?username=MVianah&show_icons=true&theme=holi&hide_border=false&include_all_commits=false&count_private=true" />
+<img height="180em" align="center" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVianah&layout=compact&theme=holi&count_private=false" />
 </div><br>
 
 ### Soft Skills 🛠️.
 <div style="display: inline_block">
   <img align="center" alt="Vianah-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Vianah-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
-  <img align="center" alt="Vianah-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Vianah-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Vianah-SQLServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
+  <img align="center" alt="Vianah-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Vianah-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>  
 
 ### Technologies I'm learning 📝.
